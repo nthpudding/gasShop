@@ -113,12 +113,6 @@ namespace gasShop
             Reset();
 
         }
-        private void btnDB_Click(object sender, EventArgs e)
-        {
-            ActivateButton(sender, RGBColors.color1);
-            OpenChildForm(new Forms.FormDashboard());
-        }
-
         private void btnSp_Click(object sender, EventArgs e)
         {
             ActivateButton(sender, RGBColors.color2);

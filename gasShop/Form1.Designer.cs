@@ -36,7 +36,6 @@
             this.btnHoaDon = new FontAwesome.Sharp.IconButton();
             this.btnNhanVien = new FontAwesome.Sharp.IconButton();
             this.btnSp = new FontAwesome.Sharp.IconButton();
-            this.btnDB = new FontAwesome.Sharp.IconButton();
             this.panelLogo = new System.Windows.Forms.Panel();
             this.btnSlide = new FontAwesome.Sharp.IconButton();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -63,7 +62,6 @@
             this.panelMenu.Controls.Add(this.btnHoaDon);
             this.panelMenu.Controls.Add(this.btnNhanVien);
             this.panelMenu.Controls.Add(this.btnSp);
-            this.panelMenu.Controls.Add(this.btnDB);
             this.panelMenu.Controls.Add(this.panelLogo);
             this.panelMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelMenu.Location = new System.Drawing.Point(0, 0);
@@ -84,7 +82,7 @@
             this.btnDangXuat.IconColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnDangXuat.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnDangXuat.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnDangXuat.Location = new System.Drawing.Point(0, 515);
+            this.btnDangXuat.Location = new System.Drawing.Point(0, 453);
             this.btnDangXuat.Margin = new System.Windows.Forms.Padding(4);
             this.btnDangXuat.Name = "btnDangXuat";
             this.btnDangXuat.Size = new System.Drawing.Size(259, 62);
@@ -108,7 +106,7 @@
             this.btnBaoCao.IconColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnBaoCao.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnBaoCao.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnBaoCao.Location = new System.Drawing.Point(0, 453);
+            this.btnBaoCao.Location = new System.Drawing.Point(0, 391);
             this.btnBaoCao.Margin = new System.Windows.Forms.Padding(4);
             this.btnBaoCao.Name = "btnBaoCao";
             this.btnBaoCao.Size = new System.Drawing.Size(259, 62);
@@ -132,7 +130,7 @@
             this.btnKhachHang.IconColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnKhachHang.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnKhachHang.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnKhachHang.Location = new System.Drawing.Point(0, 391);
+            this.btnKhachHang.Location = new System.Drawing.Point(0, 329);
             this.btnKhachHang.Margin = new System.Windows.Forms.Padding(4);
             this.btnKhachHang.Name = "btnKhachHang";
             this.btnKhachHang.Size = new System.Drawing.Size(259, 62);
@@ -156,7 +154,7 @@
             this.btnNCC.IconColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnNCC.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnNCC.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnNCC.Location = new System.Drawing.Point(0, 329);
+            this.btnNCC.Location = new System.Drawing.Point(0, 267);
             this.btnNCC.Margin = new System.Windows.Forms.Padding(4);
             this.btnNCC.Name = "btnNCC";
             this.btnNCC.Size = new System.Drawing.Size(259, 62);
@@ -180,7 +178,7 @@
             this.btnHoaDon.IconColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnHoaDon.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnHoaDon.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnHoaDon.Location = new System.Drawing.Point(0, 267);
+            this.btnHoaDon.Location = new System.Drawing.Point(0, 205);
             this.btnHoaDon.Margin = new System.Windows.Forms.Padding(4);
             this.btnHoaDon.Name = "btnHoaDon";
             this.btnHoaDon.Size = new System.Drawing.Size(259, 62);
@@ -204,7 +202,7 @@
             this.btnNhanVien.IconColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnNhanVien.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnNhanVien.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnNhanVien.Location = new System.Drawing.Point(0, 205);
+            this.btnNhanVien.Location = new System.Drawing.Point(0, 143);
             this.btnNhanVien.Margin = new System.Windows.Forms.Padding(4);
             this.btnNhanVien.Name = "btnNhanVien";
             this.btnNhanVien.Size = new System.Drawing.Size(259, 62);
@@ -228,7 +226,7 @@
             this.btnSp.IconColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnSp.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.btnSp.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnSp.Location = new System.Drawing.Point(0, 143);
+            this.btnSp.Location = new System.Drawing.Point(0, 81);
             this.btnSp.Margin = new System.Windows.Forms.Padding(4);
             this.btnSp.Name = "btnSp";
             this.btnSp.Size = new System.Drawing.Size(259, 62);
@@ -239,30 +237,6 @@
             this.btnSp.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnSp.UseVisualStyleBackColor = true;
             this.btnSp.Click += new System.EventHandler(this.btnSp_Click);
-            // 
-            // btnDB
-            // 
-            this.btnDB.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnDB.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnDB.FlatAppearance.BorderSize = 0;
-            this.btnDB.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDB.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnDB.ForeColor = System.Drawing.Color.White;
-            this.btnDB.IconChar = FontAwesome.Sharp.IconChar.ChartColumn;
-            this.btnDB.IconColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnDB.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.btnDB.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnDB.Location = new System.Drawing.Point(0, 81);
-            this.btnDB.Margin = new System.Windows.Forms.Padding(4);
-            this.btnDB.Name = "btnDB";
-            this.btnDB.Size = new System.Drawing.Size(259, 62);
-            this.btnDB.TabIndex = 1;
-            this.btnDB.Tag = "Dashboard";
-            this.btnDB.Text = "Dashboard";
-            this.btnDB.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnDB.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnDB.UseVisualStyleBackColor = true;
-            this.btnDB.Click += new System.EventHandler(this.btnDB_Click);
             // 
             // panelLogo
             // 
@@ -391,7 +365,6 @@
         #endregion
 
         private System.Windows.Forms.Panel panelMenu;
-        private FontAwesome.Sharp.IconButton btnDB;
         private FontAwesome.Sharp.IconButton btnDangXuat;
         private FontAwesome.Sharp.IconButton btnBaoCao;
         private FontAwesome.Sharp.IconButton btnKhachHang;
