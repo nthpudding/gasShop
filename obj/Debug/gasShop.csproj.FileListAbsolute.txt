@@ -1,0 +1,204 @@
+C:\Users\Admin\source\repos\gasShop\bin\Debug\gasShop.exe.config
+C:\Users\Admin\source\repos\gasShop\bin\Debug\gasShop.exe
+C:\Users\Admin\source\repos\gasShop\bin\Debug\gasShop.pdb
+C:\Users\Admin\source\repos\gasShop\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\RestSharp.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Buffers.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.CodeDom.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Data.Odbc.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Data.OleDb.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Drawing.Common.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.IO.Packaging.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.IO.Ports.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Memory.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\source\repos\gasShop\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Admin\source\repos\gasShop\obj\Debug\gasShop.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\gasShop\obj\Debug\gasShop.Properties.Resources.resources
+C:\Users\Admin\source\repos\gasShop\obj\Debug\gasShop.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\gasShop\obj\Debug\gasShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\gasShop\obj\Debug\gasShop.csproj.Fody.CopyLocal.cache
+C:\Users\Admin\source\repos\gasShop\obj\Debug\gasShop.csproj.CopyComplete
+C:\Users\Admin\source\repos\gasShop\obj\Debug\gasShop.exe
+C:\Users\Admin\source\repos\gasShop\obj\Debug\gasShop.pdb
+C:\Users\Admin\source\repos\gasShop\obj\Debug\gasShop.GasShop.resources
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\gasShop.exe.config
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\gasShop.exe
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\gasShop.pdb
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\RestSharp.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.CodeDom.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Data.Odbc.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Data.OleDb.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Drawing.Common.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.IO.Packaging.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.IO.Ports.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.GasShop.resources
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.Properties.Resources.resources
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.csproj.Fody.CopyLocal.cache
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.csproj.CopyComplete
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.exe
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.pdb
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormCaiDat.resources
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormDashboard.resources
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormHoaDon.resources
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormKhachHang.resources
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormNCC.resources
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormNhanVien.resources
+C:\Users\Admin\Desktop\BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormSanPham.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\gasShop.exe.config
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\gasShop.exe
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\gasShop.pdb
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\RestSharp.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Buffers.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.CodeDom.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Data.Odbc.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Data.OleDb.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Data.SqlClient.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Drawing.Common.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.IO.Packaging.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.IO.Ports.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Memory.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Security.AccessControl.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Security.Permissions.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.GasShop.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormDashboard.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormHoaDon.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormKhachHang.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormNhanVien.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormSanPham.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Properties.Resources.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.csproj.Fody.CopyLocal.cache
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.csproj.CopyComplete
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.exe
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.pdb
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormCaLam.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormCongViec.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.ChildFormSP.FormLoai.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.ChildFormSP.FormMau.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.ChildFormSP.FormNSX.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormNCC.resources
+C:\Users\MSI\OneDrive - MSFT\Documents\2BTLLTTQ\gasShop\obj\Debug\gasShop.Forms.FormHoaDonNhap.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\gasShop.exe.config
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\gasShop.exe
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\gasShop.pdb
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\Newtonsoft.Json.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\RestSharp.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Buffers.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.CodeDom.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Data.Odbc.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Data.OleDb.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Data.SqlClient.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Drawing.Common.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.IO.Packaging.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.IO.Ports.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Memory.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Numerics.Vectors.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Security.AccessControl.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Security.Permissions.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Security.Principal.Windows.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\bin\Debug\System.Threading.AccessControl.xml
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.csproj.AssemblyReference.cache
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.GasShop.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.ChildFormSP.FormLoai.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.ChildFormSP.FormMau.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.ChildFormSP.FormNSX.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.FormCaLam.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.FormCongViec.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.FormDashboard.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.FormHoaDonNhap.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.FormKhachHang.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.FormNCC.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.FormNhanVien.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.FormSanPham.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Properties.Resources.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.csproj.GenerateResource.cache
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.csproj.CoreCompileInputs.cache
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.csproj.Fody.CopyLocal.cache
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.csproj.CopyComplete
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.exe
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.pdb
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.Forms.FormHoaDonBan.resources
+D:\Main\Btvn\nam 3\Ki 1\C# Form\BTL_C#\BanGas2\gasShop\obj\Debug\gasShop.csproj.ResolveComReference.cache
